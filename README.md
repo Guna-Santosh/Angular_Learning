@@ -85,7 +85,7 @@ Step-5
 
  ## Actively supported versions
 
-`ANGULAR				   NODE.JS	`					 `TYPESCRIPT`		     `RXJS`
+`ANGULAR`				   `NODE.JS	`					 `TYPESCRIPT`		     `RXJS`
 17.0.x				^18.13.0 || ^20.9.0					>=4.9.3 <5.3.0		^6.5.3 || ^7.4.0          
 16.1.x || 16.2.x	^16.14.0 || ^18.10.0				>=4.9.3 <5.2.0		^6.5.3 || ^7.4.0          
 16.0.x				^16.14.0 || ^18.10.0				>=4.9.3 <5.1.0		^6.5.3 || ^7.4.0          
